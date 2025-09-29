@@ -102,5 +102,5 @@ Norton, S., Matthews, F. E., Barnes, D. E., Yaffe, K., & Brayne, C. (2014). Pote
 Rabie El Kharoua. (2023). Alzheimer's Disease Dataset [Data set]. Kaggle. https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset
 
 
-<img width="468" height="479" alt="image" src="https://github.com/user-attachments/assets/d0fb7475-625e-4e08-a337-c99aa8bf36ae" />
+
 
